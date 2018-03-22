@@ -8,7 +8,7 @@ int main() {
 
 	if (tm.tm_hour == 20)
 	{
-		printf("yo niggas\n");
+		printf("It's the time !\n");
 	}
 	else
 	{
